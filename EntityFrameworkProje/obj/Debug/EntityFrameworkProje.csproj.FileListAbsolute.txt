@@ -1,0 +1,16 @@
+C:\Users\gsli_\OneDrive\Masaüstü\C_Sharp\Proje1\EntityFrameworkProje\bin\Debug\EntityFrameworkProje.exe.config
+C:\Users\gsli_\OneDrive\Masaüstü\C_Sharp\Proje1\EntityFrameworkProje\bin\Debug\EntityFrameworkProje.exe
+C:\Users\gsli_\OneDrive\Masaüstü\C_Sharp\Proje1\EntityFrameworkProje\bin\Debug\EntityFrameworkProje.pdb
+C:\Users\gsli_\OneDrive\Masaüstü\C_Sharp\Proje1\EntityFrameworkProje\bin\Debug\EntityFramework.dll
+C:\Users\gsli_\OneDrive\Masaüstü\C_Sharp\Proje1\EntityFrameworkProje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gsli_\OneDrive\Masaüstü\C_Sharp\Proje1\EntityFrameworkProje\bin\Debug\EntityFramework.xml
+C:\Users\gsli_\OneDrive\Masaüstü\C_Sharp\Proje1\EntityFrameworkProje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gsli_\OneDrive\Masaüstü\C_Sharp\Proje1\EntityFrameworkProje\obj\Debug\EntityFrameworkProje.csproj.AssemblyReference.cache
+C:\Users\gsli_\OneDrive\Masaüstü\C_Sharp\Proje1\EntityFrameworkProje\obj\Debug\EntityFrameworkProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\gsli_\OneDrive\Masaüstü\C_Sharp\Proje1\EntityFrameworkProje\obj\Debug\EntityFrameworkProje.Form1.resources
+C:\Users\gsli_\OneDrive\Masaüstü\C_Sharp\Proje1\EntityFrameworkProje\obj\Debug\EntityFrameworkProje.Properties.Resources.resources
+C:\Users\gsli_\OneDrive\Masaüstü\C_Sharp\Proje1\EntityFrameworkProje\obj\Debug\EntityFrameworkProje.csproj.GenerateResource.cache
+C:\Users\gsli_\OneDrive\Masaüstü\C_Sharp\Proje1\EntityFrameworkProje\obj\Debug\EntityFrameworkProje.csproj.CoreCompileInputs.cache
+C:\Users\gsli_\OneDrive\Masaüstü\C_Sharp\Proje1\EntityFrameworkProje\obj\Debug\EntityFrameworkProje.csproj.CopyComplete
+C:\Users\gsli_\OneDrive\Masaüstü\C_Sharp\Proje1\EntityFrameworkProje\obj\Debug\EntityFrameworkProje.exe
+C:\Users\gsli_\OneDrive\Masaüstü\C_Sharp\Proje1\EntityFrameworkProje\obj\Debug\EntityFrameworkProje.pdb
