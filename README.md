@@ -1,0 +1,2 @@
+# EntityFrameworkpractice
+BasicEntityFrameworkpractice
